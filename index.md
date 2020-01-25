@@ -9,11 +9,6 @@ layout: home
 ---
 The San Joaquin Valley Section of the American Chemical Society is a local professional organization that serves chemists and individuals involved in chemistry related professions in Fresno, CA and surrounding areas. Members come from both chemical industry and academics, and include both those who are employed in the field as well as students studying in the field. Current membership is approximately 190 members.
 
-[Visit our Facebook Page][3c0d666c] 
+[Visit our Facebook Page][3c0d666c]
 
   [3c0d666c]: https://www.facebook.com/sjvacs/ "SJV-ACS Facebook Page"
-
-# Upcoming events
-
-- June 21, 2019: Local member social at Gazebo Gardens
-- August 25-29, 2019: The ACS Fall 2019 National Meeting & Expo in San Diego will focus on Chemistry & Water

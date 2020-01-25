@@ -6,16 +6,15 @@ permalink: /about/
 
 ## Executive Committee
 
-- Kristi Closser (Chair)
-- Pahoua Xiong (Chair-Elect)
-- Elisabeth Schoenau (Past-Chair)
-- Derek Dormendy (Member-At-Large, Academic)
-- Wiley Hall (Member-At-Large, Industry)
+- Pahoua Xiong (Chair)
+- Kristi Closser (Past-Chair)
+- Masaki Uchida (Member-At-Large, Academic)
+- Wiley Hall (Member-At-Large, Non-academic)
 - Hubert Muchalski (Councilor)
 - Brett Wood (Alternate Councilor)
-- Brian Shamp (Treasurer)
+- Brandon Alvarado (Treasurer)
 - Eliud Mushibe (Secretary)
-- Michaela Eropkin (Student Representative)
+- Jazlyn Quintana (Student Representative)
 
 ## Contact
 
