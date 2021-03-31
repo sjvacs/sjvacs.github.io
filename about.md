@@ -6,15 +6,15 @@ permalink: /about/
 
 ## Executive Committee
 
-- Pahoua Xiong (Chair)
-- Kristi Closser (Past-Chair)
+- Dermot Donnelly--Hermosillo (Chair-Elect)
+- Rebecca Cherry (Chair)
+- Pahoua Xiong (Past-Chair)
 - Masaki Uchida (Member-At-Large, Academic)
 - Wiley Hall (Member-At-Large, Non-academic)
 - Hubert Muchalski (Councilor)
 - Brett Wood (Alternate Councilor)
-- Brandon Alvarado (Treasurer)
-- Eliud Mushibe (Secretary)
-- Jazlyn Quintana (Student Representative)
+- Morgan Hawker (Secretary)
+- Shareen Purewall (Student Representative)
 
 ## Contact
 
