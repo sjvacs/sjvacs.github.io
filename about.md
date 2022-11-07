@@ -6,14 +6,14 @@ permalink: /about/
 
 ## Executive Committee
 
-- Dermot Donnelly--Hermosillo (Chair-Elect)
-- Rebecca Cherry (Chair)
-- Pahoua Xiong (Past-Chair)
+- Christopher Dillon (Chair-Elect)
+- Dermot Donnelly--Hermosillo (Chair)
+- Rebecca Cherry (Immediate Past-Chair)
 - Masaki Uchida (Member-At-Large, Academic)
 - Wiley Hall (Member-At-Large, Non-academic)
 - Hubert Muchalski (Councilor)
-- Brett Wood (Alternate Councilor)
-- Morgan Hawker (Secretary)
+- Elisabeth Schoenau (Alternate Councilor)
+- Morgan Hawker (Secretary & Treasurer)
 - Shareen Purewall (Student Representative)
 
 ## Contact
