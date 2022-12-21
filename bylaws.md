@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About Us
-permalink: /about/
+title: Bylaws
+permalink: /bylaws/
 ---
 
 # Bylaws
