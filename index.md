@@ -11,16 +11,16 @@ The San Joaquin Valley Section of the American Chemical Society is a local profe
 
 ## Executive Committee
 
-- Hubert Muchalski (Chair-Elect)
-- Kristi Closser (Chair)
-- Christopher Dillon (Immediate Past-Chair)
+- Hubert Muchalski (Chair)
+- Seth Yates (Chair-Elect)
+- Kristi Closser (Immediate Past-Chair)
 - Masaki Uchida (Member-At-Large, Academic)
-- Justin Russak (Member-At-Large, Non-academic)
+- Justin Russak (Member-At-Large, Non-Academic)
 - Morgan Hawker (Councilor)
-- Elisabeth Schoenau (Alternate Councilor)
+- Jay McDaniel (Alternate Councilor)
 - Crystina Ciula (Secretary)
 - He Wei (Treasurer)
-- Gabriel Ribiero (Student Representative)
+- Mina Abdelmessih (Student Representative)
 
 [Visit our Facebook Page][3c0d666c]
 
